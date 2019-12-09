@@ -1,87 +1,89 @@
 {
-  "places":[
-    {
-      "place_toovysId": 23980942,
-      "place_googleId": "CHKJKDJKDDKLFKÑLKLÑKF",
-      "place_short_name":"Estacionamientos Serrano",
-      "place_long_name":"Estacionamientos Serrano",
-      "coordinates":{
-          "latitude": -33.445171,
-          "longitude": -70.649136
-          },
-      "parkingLots":[
+    "response":{
+      "places":[
         {
-          "parking_id": 2323,
-          "parking_floor": 3,
-          "parking_number": 202,
-          "parking_description": "Santander",
-          "parking_owner_id": 289273802,
-          "parking_max_time": "24:20"
+          "place_toovysId": 23980942,
+          "place_googleId": "CHKJKDJKDDKLFKÑLKLÑKF",
+          "place_short_name":"Estacionamientos Serrano",
+          "place_long_name":"Estacionamientos Serrano",
+          "coordinates":{
+              "latitude": -33.445171,
+              "longitude": -70.649136
+              },
+          "parkingLots":[
+            {
+              "parking_id": 2323,
+              "parking_floor": 3,
+              "parking_number": 202,
+              "parking_description": "Santander",
+              "parking_owner_id": 289273802,
+              "parking_max_time": "24:20"
+            },
+            {
+              "parking_id": 111111,
+              "parking_floor": 1,
+              "parking_number": 202,
+              "pareking_description": "Santander",
+              "parking_owner_id": 289273802,
+              "parking_max_time": "24:20"
+            },
+            {
+              "parking_id": 222222,
+              "parking_floor": -2,
+              "parking_number": 202,
+              "pareking_description": "Santander",
+              "parking_owner_id": 289273802,
+              "parking_max_time": "24:20"
+            },
+            {
+              "parking_id": 233444423,
+              "parking_floor": -1,
+              "parking_number": 202,
+              "pareking_description": "Santander",
+              "parking_owner_id": 289273802,
+              "parking_max_time": "24:20"
+            }]
         },
         {
-          "parking_id": 111111,
-          "parking_floor": 1,
-          "parking_number": 202,
-          "pareking_description": "Santander",
-          "parking_owner_id": 289273802,
-          "parking_max_time": "24:20"
+          "place_toovysId": 23980942,
+          "place_googleId": "CHKJKDJKDDKLFKÑLKLÑKF",
+          "place_short_name":"Estacionamiento Hotel Serrano",
+          "place_long_name":"Estacionamiento Hotel Serrano",
+          "coordinates":{
+              "latitude": -33.444473,
+              "longitude": -70.648818
+              },
+          "parkingLots":[
+            {
+              "parking_id": 2323,
+              "parking_floor": 3,
+              "parking_number": 202,
+              "parking_description": "Santander",
+              "parking_owner_id": 289273802,
+              "parking_max_time": "24:20"
+            }
+          ]
         },
         {
-          "parking_id": 222222,
-          "parking_floor": -2,
-          "parking_number": 202,
-          "pareking_description": "Santander",
-          "parking_owner_id": 289273802,
-          "parking_max_time": "24:20"
-        },
-        {
-          "parking_id": 233444423,
-          "parking_floor": -1,
-          "parking_number": 202,
-          "pareking_description": "Santander",
-          "parking_owner_id": 289273802,
-          "parking_max_time": "24:20"
-        }]
-    },
-    {
-      "place_toovysId": 23980942,
-      "place_googleId": "CHKJKDJKDDKLFKÑLKLÑKF",
-      "place_short_name":"Estacionamiento Hotel Serrano",
-      "place_long_name":"Estacionamiento Hotel Serrano",
-      "coordinates":{
-          "latitude": -33.444473,
-          "longitude": -70.648818
-          },
-      "parkingLots":[
-        {
-          "parking_id": 2323,
-          "parking_floor": 3,
-          "parking_number": 202,
-          "parking_description": "Santander",
-          "parking_owner_id": 289273802,
-          "parking_max_time": "24:20"
-        }
-      ]
-    },
-    {
-      "place_toovysId": 23980942,
-      "place_googleId": "CHKJKDJKDDKLFKÑLKLÑKF",
-      "place_short_name":"Estacionamiento U de Chile",
-      "place_long_name":"Estacionamiento U de Chile",
-      "coordinates":{
-          "latitude": -33.444289,
-          "longitude": -70.650915
-          },
-      "parkingLots":[
-        {
-          "parking_id": 2323,
-          "parking_floor": 3,
-          "parking_number": 202,
-          "parking_description": "Santander",
-          "parking_owner_id": 289273802,
-          "parking_max_time": "24:20"
+          "place_toovysId": 23980942,
+          "place_googleId": "CHKJKDJKDDKLFKÑLKLÑKF",
+          "place_short_name":"Estacionamiento U de Chile",
+          "place_long_name":"Estacionamiento U de Chile",
+          "coordinates":{
+              "latitude": -33.444289,
+              "longitude": -70.650915
+              },
+          "parkingLots":[
+            {
+              "parking_id": 2323,
+              "parking_floor": 3,
+              "parking_number": 202,
+              "parking_description": "Santander",
+              "parking_owner_id": 289273802,
+              "parking_max_time": "24:20"
+            }
+          ]
         }
       ]
     }
-  ]
 }
