@@ -143,6 +143,46 @@
               "parking_max_time": "24:20"
             }
           ]
+        },
+        {
+          "place_toovysId": 23980942,
+          "place_googleId": "CHKJKDJKDDKLFKÑLKLÑKF",
+          "place_short_name":"Estacionamiento Euro",
+          "place_long_name":"Estacionamiento Eurocentro Santiago",
+          "coordinates":{
+              "latitude": -33.441957,
+              "longitude": -70.650188
+              },
+          "parkingLots":[
+            {
+              "parking_id": 2323,
+              "parking_floor": 3,
+              "parking_number": 202,
+              "parking_description": "Santander",
+              "parking_owner_id": 289273802,
+              "parking_max_time": "24:20"
+            }
+          ]
+        },
+        {
+          "place_toovysId": 23980942,
+          "place_googleId": "CHKJKDJKDDKLFKÑLKLÑKF",
+          "place_short_name":"Estacionamiento Teatro Municipal",
+          "place_long_name":"Estacionamiento Teatro Municipal de Santiago",
+          "coordinates":{
+              "latitude": -33.440856,
+              "longitude": -70.647521
+              },
+          "parkingLots":[
+            {
+              "parking_id": 2323,
+              "parking_floor": 3,
+              "parking_number": 202,
+              "parking_description": "Santander",
+              "parking_owner_id": 289273802,
+              "parking_max_time": "24:20"
+            }
+          ]
         }
       ]
     }
