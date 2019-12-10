@@ -7,8 +7,8 @@
           "place_short_name":"Estacionamientos Serrano",
           "place_long_name":"Estacionamientos Serrano",
           "coordinates":{
-              "latitude": -33.44,
-              "longitude": -70.64
+              "latitude": -33.445095,
+              "longitude": -70.649232
               },
           "parkingLots":[
             {
@@ -50,8 +50,8 @@
           "place_short_name":"Estacionamiento Hotel Serrano",
           "place_long_name":"Estacionamiento Hotel Serrano",
           "coordinates":{
-              "latitude": -33.44,
-              "longitude": -70.64
+              "latitude": -33.444236,
+              "longitude": -70.650219
               },
           "parkingLots":[
             {
@@ -70,8 +70,8 @@
           "place_short_name":"Estacionamiento U de Chile",
           "place_long_name":"Estacionamiento U de Chile",
           "coordinates":{
-              "latitude": -33.44,
-              "longitude": -70.65
+              "latitude": -33.444415,
+              "longitude": -70.650916
               },
           "parkingLots":[
             {
